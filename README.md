@@ -1,7 +1,8 @@
 # 👨‍💻 MYSELF:
+## My portfolio: [Click here to visit](https://robinbijo.github.io/)
 I began coding at the age of 8 when CS was first introduced in my school! Since then there was no turning back<br>
 I have forayed into several aspects of CS such as Robotics, IoT, Hacking(Ethical wonly),Sport Programming<br>
-I have won medals just that I dont boast or reveal about it<br>
+<br>
 
 >[!NOTE]
 >Though I know a lot of languages(computer ones), I am still human and I might forget about certain syntaxes in each language
@@ -11,9 +12,6 @@ I have won medals just that I dont boast or reveal about it<br>
 
 > [!WARNING]
 > My projects are stored in laptop and i forget to upload it here, so no content is here however in the next 5 yrs I hope I do
-
-> [!CAUTION]
-> I haven't been able to build a portfolio website for myself as I still have to upskill
 
 > [!TIP]
 > I love helping people in coding/just general tech /softwares (including teachers)
