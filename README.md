@@ -1,10 +1,5 @@
 # 👨‍💻 MYSELF:
-I began coding at the age of 8 when CS was first introduced in my school! Since then there was no turning back<br>
-I have forayed into several aspects of CS such as Robotics, IoT, Hacking(Ethical wonly),Sport Programming<br>
-<br>
-> [!TIP]
-> I love helping people in coding/just general tech /softwares (including teachers)
-
+#### ROS2 Enthusiast with a focus on computer vision and autonomous robot development.
 # 💻 Frameworks/Languages I had known earlier
 `Primary School`: KTurtle,MS Small Basic
 >[!WARNING]
@@ -27,5 +22,8 @@ I have forayed into several aspects of CS such as Robotics, IoT, Hacking(Ethical
 
 ---
 # HAPPY CODING!
+
+> [!TIP]
+> I love helping people in coding/just general tech /softwares (including teachers)
 
 ### © ROBIN BIJO
