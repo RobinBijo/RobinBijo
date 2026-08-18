@@ -20,7 +20,4 @@
 ---
 # HAPPY CODING!
 
-> [!TIP]
-> I love helping people in coding/just general tech /softwares (including teachers)
-
 ### © ROBIN BIJO
